@@ -1,4 +1,6 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
+
+# My page : https://chaenii989.github.io/Web_Design_Challenge/
 
 ## Background
 
